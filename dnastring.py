@@ -1,5 +1,8 @@
-import doctest
+'''
+This function takes a string of dna and counts how many of each nucleotide are contained in the given string
+'''
 
+import doctest
 
 def dnastring(dna):
     '''
